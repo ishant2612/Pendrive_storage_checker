@@ -45,9 +45,6 @@ This script fills a selected drive (excluding local disks) with temporary files 
 - Ensure that no important data is stored on the drive being tested.
 - This script may take some time to run depending on the size of the drive and the speed of the writing process.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Author
 
